@@ -4,10 +4,10 @@
 class BijuKS:
 
     def __init__(self):
-        self.username = 'ksbiju'
+        self.username = 'biju-sasidharan'
         self.name = 'Biju Sasidharan'
         self.web = 'https://biju-sasidharan.com'
-        self.twitter = '@rafnixg'
+        self.twitter = '@bijusasidharan'
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Svelte', 'Boostrap', 'TailWind'],
             'backend': ['Python', 'Flask', 'Django'],
