@@ -26,4 +26,3 @@ class BijuKS:
 if __name__ == '__main__':
     me = BijuKS()
 
----
