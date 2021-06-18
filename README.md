@@ -1,5 +1,5 @@
 # Biju Sasidharan
-![Python application](https://github.com/rafnixg/rafnixg/workflows/Python%20application/badge.svg?branch=master&event=schedule) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=biju-sasidharan.biju-sasidharan)
+![Python](https://github.com/rafnixg/rafnixg/workflows/Python%20application/badge.svg?branch=master&event=schedule) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=biju-sasidharan.biju-sasidharan)
 
 ```python
 class BijuKS:
@@ -26,3 +26,9 @@ class BijuKS:
 if __name__ == '__main__':
     me = BijuKS()
 
+```
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=biju-sasidharan&show_icons=true" alt="reisub0" /> 
+
+</p>
