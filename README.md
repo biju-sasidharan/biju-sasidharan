@@ -29,6 +29,6 @@ if __name__ == '__main__':
 ```
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=biju-sasidharan&show_icons=true)" alt="Biju's :: Profile Stats"/> &nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api?username=biju-sasidharan&show_icons=true)" alt="Biju's :: Profile Stats"/> &nbsp;
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biju-sasidharan&layout=compact&card_height=45" alt="Top Languages" />
 </p>
