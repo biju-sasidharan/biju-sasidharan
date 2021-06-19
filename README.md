@@ -28,23 +28,7 @@ if __name__ == '__main__':
 
 ```
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=biju-sasidharan&show_icons=true" alt="Biju Sasidharan" /> 
- </p>
- 
-[![Biju's GitHub stats](https://github-readme-stats.vercel.app/api?username=biju-sasidharan)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biju-sasidharan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=biju-sasidharan&show_icons=true" alt="Biju's :: Profile Stats" />
-    &nbsp;&nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biju-sasidharan&layout=compact" alt="Top Languages" />
-</p>
-
-<div style="font-size:5;">
     <img src="https://github-readme-stats.vercel.app/api?username=biju-sasidharan&show_icons=true)" alt="Biju's :: Profile Stats"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biju-sasidharan&layout=compact" alt="Top Languages" />
-</div>
-
-
+</p>
