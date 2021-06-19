@@ -1,18 +1,9 @@
 # Biju Sasidharan
-<p>
-    <a href="https://biju-sasidharan.com">
-        <img src="https://badges.pufler.dev/visits/biju-sasidharan/biju-sasidharan" style="max-width:100%;">
-    </a>
-    <a href="https://twitter.com/bijusasidharan" rel="nofollow">
-        <img src="https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1" style="max-width:100%;">
-    </a>
-    <a href="https://www.linkedin.com/in/biju-sasidharan/" rel="nofollow">
-        <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8" style="max-width:100%;">
-    </a>
-    <a href="https://codepen.io/biju-sasidharan" rel="nofollow">
-        <img src="https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black" style="max-width:100%;">
-    </a>
-</p>
+[![Visits Badge](https://badges.pufler.dev/visits/biju-sasidharan/biju-sasidharan)](https:biju-sasidharan.com)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/bijusasidharan)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/biju-sasidharan/)
+[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/biju-sasidharan)
+
 
 <p>
     Hey there <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>
@@ -53,7 +44,3 @@ if __name__ == '__main__':
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=biju-sasidharan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" style="max-width:100%; alt="Biju's :: Profile Stats"">
 </a>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biju-sasidharan" alt="Top Languages" />
-    <img src="https://github-readme-stats.vercel.app/api?username=biju-sasidharan&show_icons=true" alt="Biju's :: Profile Stats"/>
-</p>
