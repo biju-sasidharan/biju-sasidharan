@@ -13,7 +13,7 @@ class BijuKS:
             'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Svelte', 'Boostrap', 'TailWind'],
             'backend': ['Python', 'Flask', 'Django'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
-            'devops': ['Docker', 'Nginx', 'Jenkins', 'GitHub Actions', 'AWS', 'Heroku'],
+            'devops': ['Docker', 'Nginx', 'Jenkins', 'AWS', 'Heroku'],
             'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook', 'SQLAlchemy', 'Redis', 'Celery'],
             'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'GNU/Linux']
         }
@@ -36,7 +36,6 @@ if __name__ == '__main__':
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biju-sasidharan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=biju-sasidharan&show_icons=true&theme=synthwave" alt="Biju's :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=biju-sasidharan&show_icons=true" alt="Biju's :: Profile Stats" /></p>
 
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
