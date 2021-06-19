@@ -43,7 +43,7 @@ if __name__ == '__main__':
 </p>
 
 <div style="font-size:5;">
-    <img src="https://github-readme-stats.vercel.app/api?username=biju-sasidharan&show_icons=true" alt="Biju's :: Profile Stats" style="margin-right: 5px;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=biju-sasidharan&show_icons=true)" alt="Biju's :: Profile Stats"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biju-sasidharan&layout=compact" alt="Top Languages" />
 </div>
 
