@@ -31,6 +31,7 @@ if __name__ == '__main__':
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=biju-sasidharan&show_icons=true" alt="Biju Sasidharan" /> 
  </p>
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biju-sasidharan)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ [![Biju's GitHub stats](https://github-readme-stats.vercel.app/api?username=biju-sasidharan)](https://github.com/anuraghazra/github-readme-stats)
 
 
