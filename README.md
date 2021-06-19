@@ -1,3 +1,5 @@
+[![Biju's GitHub Banner](./assets/GitHubHeader.png)](https://biju-sasidharan.com)
+
 # Biju Sasidharan
 [![Visits Badge](https://badges.pufler.dev/visits/biju-sasidharan/biju-sasidharan)](https:biju-sasidharan.com)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/bijusasidharan)
@@ -9,32 +11,11 @@
     Hey there <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>
 </p>
 
-```python
-class BijuKS:
+I’m Biju, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 
-    def __init__(self):
-        self.username = 'biju-sasidharan'
-        self.name = 'Biju Sasidharan'
-        self.web = 'https://biju-sasidharan.com'
-        self.twitter = '@bijusasidharan'
-        self.code = {
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Svelte', 'Boostrap', 'TailWind'],
-            'backend': ['Python', 'Flask', 'Django'],
-            'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
-            'devops': ['Docker', 'Nginx', 'Jenkins', 'AWS', 'Heroku'],
-            'tools': ['GIT', 'GitHub', 'Pandas', 'Jupyter notebook', 'SQLAlchemy', 'Redis', 'Celery'],
-            'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'GNU/Linux']
-        }
-        self.architecture = ['MVC', 'Serverless', 'microservices']
+Want to know more about me? Check out my portfolio.
+<br>
 
-    def __str__(self):
-        return self.name
-
-
-if __name__ == '__main__':
-    me = BijuKS()
-
-```
 ## Github Stats
 
 <a href="https://github.com/biju-sasidharan">
