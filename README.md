@@ -1,5 +1,5 @@
 <!-- [![Biju's GitHub Banner](../images4repo/images/banner_header.jpg)](https://biju-sasidharan.com) -->
-<img src="https://github.com/biju-sasidharan/images4repo/blob/main/images/banner_header.jpg" width=100%>
+<img src="https://github.com/biju-sasidharan/images4repo/blob/main/images/banner_header.jpg" width=100%; height=70%>
 
 # Biju Sasidharan
 [![Visits Badge](https://badges.pufler.dev/visits/biju-sasidharan/biju-sasidharan)](https:biju-sasidharan.com)
