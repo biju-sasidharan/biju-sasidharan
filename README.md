@@ -36,3 +36,7 @@ if __name__ == '__main__':
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biju-sasidharan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=biju-sasidharan&show_icons=true&theme=synthwave" alt="Biju's :: Profile Stats" /></p>
+
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+
