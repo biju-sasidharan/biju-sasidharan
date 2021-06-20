@@ -12,9 +12,9 @@
     Hey there <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>
 </p>
 
-I’m Biju, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+<p>I'm Biju, a data scientist by profession, who loves getting hands dirty with data. I get excited by seeing data helping businesses to make better and informed decisions.</p>
 
-Want to know more about me? Check out my portfolio.
+<p>Want to know more about me? <a href="https://biju-sasidharan.com" rel="nofollow">Check out my portfolio.</a></p>
 <br>
 
 ## Github Stats
