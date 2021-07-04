@@ -16,6 +16,7 @@
 
 <!-- <p>I'm Biju, a data scientist by profession, who loves getting hands dirty with data. I get excited by seeing data helping businesses to make better and informed decisions.</p> -->
 
+</br>
 <p>Want to know more about me? <a href="https://biju-sasidharan.com" rel="nofollow">Check out my portfolio.</a></p>
 
 ## Github Stats
