@@ -12,9 +12,9 @@
     Hey there <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>
 </p>
 
-<img src="https://github.com/biju-sasidharan/images4repo/blob/main/images/about_me.JPG" width=100%; height=250>
+<img src="https://github.com/biju-sasidharan/images4repo/blob/main/images/about_me.JPG" width=100%; >
 
-<p>I'm Biju, a data scientist by profession, who loves getting hands dirty with data. I get excited by seeing data helping businesses to make better and informed decisions.</p>
+<!-- <p>I'm Biju, a data scientist by profession, who loves getting hands dirty with data. I get excited by seeing data helping businesses to make better and informed decisions.</p> -->
 
 <p>Want to know more about me? <a href="https://biju-sasidharan.com" rel="nofollow">Check out my portfolio.</a></p>
 
