@@ -1,4 +1,4 @@
-<link type="text/css" rel="stylesheet" href="https://github.com/biju-sasidharan/images4repo/blob/main/css/main.css" />
+<link type="text/css" rel="stylesheet" href="css/main.css" />
 
 <!-- [![Biju's GitHub Banner](../images4repo/images/banner_header.jpg)](https://biju-sasidharan.com) -->
 <img src="https://github.com/biju-sasidharan/images4repo/blob/main/images/banner_header.jpg" width=100%; height=250>
