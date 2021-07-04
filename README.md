@@ -1,5 +1,8 @@
+<link type="text/css" rel="stylesheet" href="https://github.com/biju-sasidharan/images4repo/blob/main/css/main.css" />
+
 <!-- [![Biju's GitHub Banner](../images4repo/images/banner_header.jpg)](https://biju-sasidharan.com) -->
 <img src="https://github.com/biju-sasidharan/images4repo/blob/main/images/banner_header.jpg" width=100%; height=250>
+
 
 # Biju Sasidharan
 [![Visits Badge](https://badges.pufler.dev/visits/biju-sasidharan/biju-sasidharan)](https:biju-sasidharan.com)
@@ -12,7 +15,7 @@
     Hey there <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>
 </p>
 
-<img src="https://github.com/biju-sasidharan/images4repo/blob/main/images/about_me.JPG" width=100%; unselectable="on">
+<img src="https://github.com/biju-sasidharan/images4repo/blob/main/images/about_me.JPG" width=100%;>
 
 <!-- <p>I'm Biju, a data scientist by profession, who loves getting hands dirty with data. I get excited by seeing data helping businesses to make better and informed decisions.</p> -->
 
