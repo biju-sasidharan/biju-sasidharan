@@ -11,7 +11,7 @@
 <p>
     Hey there <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>
 </p>
-<p
+<p>
 <a href="#2"><img src="https://github.com/biju-sasidharan/images4repo/blob/main/images/about_me.JPG" width=100%;></a>
 </p>
 
