@@ -19,7 +19,6 @@
 
 </br>
 <p>Want to know more about me? <a href="https://biju-sasidharan.com" rel="nofollow">Check out my portfolio.</a></p>
-</br>
 
 ## Github Stats
 
